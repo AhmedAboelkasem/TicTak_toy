@@ -1,1 +1,1 @@
-X_O Game with python
+XO is a game in the Python language
